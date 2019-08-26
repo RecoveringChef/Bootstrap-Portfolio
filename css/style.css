@@ -1,4 +1,7 @@
-footer {text-align: center;    
+footer {border-top: 1px solid lightslategray;
+    text-align: center;    
     position: fixed;
     width: 100%;
     bottom: 0;}
+
+    .container{background-color: #f2f2f2;}
